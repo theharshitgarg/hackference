@@ -4,10 +4,10 @@
 
 
 Requirements :
-	*Python
-	*nltk,sklearn,numpy,textblob
-	*PHP
-	*XAMPP
+	* Python
+	* nltk,sklearn,numpy,textblob
+	* PHP
+	* XAMPP
 	
 
 ### Steps to reproduce : 
