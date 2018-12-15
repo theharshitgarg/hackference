@@ -3,7 +3,7 @@
 ### Smart career path Recommender system
 
 
-Requirements :
+Requirements : <br>
 	* Python <br>
 	* nltk,sklearn,numpy,textblob <br>
 	* PHP <br>
