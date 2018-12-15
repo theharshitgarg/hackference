@@ -1,0 +1,88 @@
+ Id,skills,Internships,projects,research work
+1,"Software Languages : C, C++, Python, MATLAB, SML, Prolog;",American Express - Machine Learning and Business Analytics (,Genetic Clustering of Species-Graph based Unsupervised Learning,
+," Data Science : Scikit-learn, AI Tools, nltk, SQL,
+ElasticSearch ,CRF++",Housing.com - Data Science and Software Engineering,Big Data and Smart Cities-Inclusion of Computer Science in Planning,
+,"Quantitative Trading Platforms : Websim(WorldQuant LLC), Trexsim(Trexquant LP)",,Operating System Design,
+,"Parallel Programming : OpenMP, MPI",,Pulse Waveform Classification,
+,"Networks: C++ socket programming, OpenSSL",,Corporate Network Graph Analysis,
+,"Hardware: Xilinx ISE ,VHDL",,,
+,,,,
+2,"Programming Languages Fluent in C++, Lua, Python; Familiar with Java, VHDL",,Fiducial Marker Localization,Estimating Dense Correspondences on Wide Baseline Images
+,"Libraries Pytorch, NumPy, TensorFlow, Scikit-Learn",,Real-Time Tracking of Non-Rigid Objects,BFSS: Boolean Functional Synthesis
+,"Software Skills git, MATLAB, GNU Octave, AutoCAD, LATEX, CMake",,Vector-Valued Image Regularization with PDEs,Restoration of Manifold-Valued Images
+,"Web Development HTML, CSS, JavaScript, PHP, Laravel (PHP), Django, MySQL, PostgreSQL",,tusSAT: A FPGA based SAT solver,
+,,,Movie Recommendation Engine,
+,,,,
+,,,,
+3,"Programming Languages: Java, C/C++, Perl, Python, SML, Lex, Yacc, Prolog, PHP, MySQL,","Research Intern at Microsoft Research India, Bangalore",Improving Performance with MKL in SVMs,
+,"JavaScript, VHDL, MIPS32 (Assembly Language).",Winter School on Machine Learning and Computer Vision organized by IISc,Unsupervised Video Surveillance,
+,"Software Packages: Matlab, OpenCV, Xilinx, Latex, Doxygen.",Bangalore with Microsoft Research(MSR),Captcha Reader,
+,Platforms: Linux and Windows.,,Using Structural Information for Object Recognition,
+,,,Non Photo-realistic Rendering,
+,,,Knowledge Management,
+,,,Funny Cell,
+,,,,
+4,"Languages: SML, C/C++, Java, SQL, HTML, PHP, VHDL, Prolog","IBM India Research Lab, Machine Learning Div., New Delhi, India",Machine Learning Class Project: Movie Recommendation Using Social Networks,Research Project: Video Montage
+,"Softwares: Visual Studio, OpenCV, OpenGL, IFS Kit, Matlab, Lex/Yacc, GDB, WEKA, Xilinx, Altera","Network Appliance Inc. (NetApp), CIFS Div., Bangalore, India",3‐D Multiplayer game called Labyrinth using java and java‐3D,Optimization for Power Reduction in System Synthesis
+,,,automated Network Backup‐Restore System using java,
+,,,interpreter for Prolog in SML using MLyacc and MLlex,
+,,,,
+,,,,
+5,"Programming Languages:-C,C++,Java, GWBASIC, Prolog(Basic),OCaml(Basic)",,Design of a set of cognitive experiments,Noise correction in Natural Language Sentences using a Language Model
+,"Scripting Languages:-Perl, Python(With the NLTK and Orange toolkit), PHP",,Rule-based English-Hindi transliteration system as part of the Speech and NLP course,actored Language Models for Translation into Morphologically Complex Languages
+,"Operating systems:-DOS, Windows(98,2000,XP,Vista), Linux(Ubuntu, Red Hat),Sun Solaris OS",,6-bit processor with controller as part of Computer Organization and Architecture Laboratory course.,Extracting Bilingual Dictionary from Comparable Corpora
+,"Hardware Programming:-MIPS Assembly Language, Verilog HDL, SPIM Simulator",,,Understanding the Nature of Dorogovtsev-Mendes Model
+,"RDBMS:-MySQL Server, Oracle Server, MS SQL server",,,"Psycholinguistic Experiments to correlate phrase structure, performance and prosody"
+,,,,
+,,,,
+,,,,
+,,,,
+6,"C++, Java, Python, Perl, PHP, SQL, Bash, JavaScript, HTML/XML/CSS",Project Intern with Wipro Technologies on Optimizing Gstreamer Media Graphs for Linux- HBBIV,Real time peer-to-peer File Synchronization,
+,,,Real-time Android Multiplayer network game over Wi-Fi using protocols built over UDP and TCP,
+,,,JavaScript app for Touch-Pad gesture-recognition,
+,,,Design and Simulation of an RC Ornithopter,
+,,,,
+,,,,
+7,Proficient in C and C++,,Stock Recommendation,
+,"Unit testing , Automation Frameworks , Visual studio",,Big Data & Map Reduce,
+,Proficiency with Linux Operating Systems and VMs,,Web IRC in Python,
+,"Handy with Python, R, Perl,Shell Scripts",,Open Street Maps,
+,Worked on Map Reduce Framework mrjob,,,
+,"Socket Programming and Network protocols, Firewalls",,,
+,,,,
+8,"Operating System: Windows, Linux",,Chemical Inventory Database software,
+,"Programming Languages: C/C++, core-JAVA, LISP Scheme, prolog",,Online Complaint management system,
+,"Web Designing: PHP, SQL, HTML, CSS , Basic JAVA Applets.",,,
+,"Other Engineering software: Dreamviewer,",,,
+,"Interested in Web Design , Web Development , Automata theory, graph theory, software designing, Apps development , Algorithms.",,,
+,,,,
+,,,,
+9,Technical Skills,,Shopping App using Kinect,
+,OS GNU/Linux,,"Chain Reaction, Mozilla BootCamp",
+,"Extensive C/C++, Java",,,
+,"Intermediate Python, HTML, CSS, JavaScript",,,
+,"Basic Version Control(git), Bash, MySQL, OpenCV",,,
+,,,,
+,,,,
+10,"Programming Languages: C, C++",,Formally verified correctness of the STL implementation of red-black trees,An abstraction based approach towards translation validation
+," Scripting Languages: Python, bash, awk, sed",,Performance monitoring tool using PMU,A survey on software verifiers
+," Tools: Git, LATEX, Vim, Beamer, Eclipse",,Discovering global variable accesses made in procedures,
+," Basic Knowledge: Java, OpenGL, Javascript",,Modeled and Animated a Transformer using OpenGL,
+," Designer Tools : Photoshop, Illustrator, Flash, Kuler",,Song Genre Classification based on Audio Spectrum,
+," Operating Systems: Windows, Linux",,Network simulation trace analysis with NS3,
+,,,REPA - Regular Parallel Arrays,
+,,,,
+,,,,
+,"C/C++, Python, Bash, x86 assembly, MIPS assembly, SQL, Java, Javascript, Django, jQuery, Docker, kubernetes, Vagrant,",,Indexing Schemes for Data Recording Systems,Framework for Enforcing Security Policies in API based Web Apps
+,"OpenGL, LATEX, Arduino, MATLAB, Git",,SpamSlam - Spam prevention using Blockchain,Improving Fuzzing of Javascript Engines
+,,,Implemented the stepped-merge algorithm paper in C language for merging B+ trees on disk for faster queries,Programming network switches with P4 and framework for P4 primitives
+,,,Real-time Chat Application,Bachelor Thesis: Blocktree - Solving Blockchain Scalability Problems
+,,,Malware Classifier,Isolated Network Infrastructure for Security Experiments
+,,,3D Graphical Modelling and Animation,
+,,,Compiler for a C-like language,
+,,,Smashing the Stack,
+,,,,
+,,,,
+,"Programming Languages: C++, Java, Python, Bash, C, VHDL, PostgreSQL, LATEX",Dyck Reachability for Data-dependence,Timeline Consistent Distributed Database,
+,"Web Development: Django, HTML, CSS, JavaScript, Bootstrap",Optimal Dyck Reachability for Alias Analysis,Auction Application on Ethereum Blockchain,
+,"Softwares and Frameworks: Git, OpenSSL, WALA, Hadoop Spark, Apache Ant, Wireshark, Make, MATLAB",,,
