@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Margdarshak</title>
+  {% load static %}
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700" rel="stylesheet">
+  
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
+
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="{% static 'home/css/style.css' %}">
+  
+</head>
+
+<body>
+
+  <!-- First section -->
+<header>
+  <h1 class="animated bounceInDown" style="font-weight: 1000;">Margdarshak</h1>
+<!--   <h2 class="animated bounceInDown">Level Up Your Websites with Animate.css</h2> -->
+
+<img style="height: 350px;width: 350px;" src="{% static "home/assets/images/logo.png" %}">
+  <span class="animated bounce"></span>
+</header>
+
+<!-- Scroll animations section -->
+<!-- <h2 class="new-section">Explore</h2> -->
+<div class="scroll-animations">
+  <div class="animated">
+    <span>🛠️</span>
+    <h3>Skills</h3>
+    
+  </div>
+  <div class="animated">
+    <span>💼</span>
+    <h3>Experience</h3>
+  
+  </div>
+  <div class="animated">
+    <span>💻</span>
+    <h3>Projects</h3>
+    
+  </div>
+  <div class="animated">
+    <span>📚</span>
+    <h3>Academia</h3>
+  </div>
+</div>
+
+<!-- Click animations section -->
+<div class="click-animations">
+  <h2 class="new-section">Let's get started!</h2> <br><br>
+  <form action = "./index.php" method = "POST">
+    <!-- <label for="name">Name : </label> -->
+    <label for="name" style=" font-size: 25px;margin-left: 25%;">Name : </label>
+    <input type="text"  id="name" name="name" required />
+    <!-- <input type="text" placeholder="Field" id="field" /> -->
+    <!-- <label for="stream">Stream/Field : </label> -->  
+    <!-- <input type="text" placeholder="Stream" id="stream" name="stream" /> -->
+    <label for="stream" style=" font-size: 25px;margin-left: 25%;">Stream : </label>
+    <select id="stream" name="stream">
+      <option selected>Computer Science</option>
+      <option>Electronics and Communication</option>
+      <option>Electrical and Electronics </option>
+      <option>Mechanical</option>
+      <option>Instrumentation</option>
+    </select>
+    
+
+    <label for="extra" style=" font-size: 25px ;margin-left: 25%;">Interests in the field: </label>
+    <select id="cs-options" placeholder="Extra" id="extra" name="extra">
+      <option>Artificial Intelligence</option>
+      <option selected>Machine Learning</option>
+      <option>Big Data</option>
+      <option>Data Science</option>
+      <option>Digital Systems</option>
+      <option>Operating Systems</option>
+      <option>Computer Networks</option>
+      <option>Computer Vision</option>
+      <option>Data Structures and Algorithms</option>
+      <option>Compiler Design</option>
+      <option>Theoretical CS</option>
+      <option>Computer Architecture</option>
+      <option>Database Systems</option>
+      <option>Deep Learning</option>
+      
+      <option></option>
+    </select>
+
+    <label for="extra" style=" font-size: 25px ;margin-left: 25%;">Extra Interests :(other than your field) </label>
+    <select id="cs-options" placeholder="Extra" id="extra_other" name="extra_other">
+      <option selected>-</option>
+      <option >Business</option>
+      <option>Robotics</option>
+      <option>Journalism</option>
+      <option>Finance</option>
+    </select>
+    
+
+    <!-- <select id="ee-options">
+      <option></option>
+    </select> -->
+    <br>
+    <!-- <input type="text" placeholder="College" id="college" /> -->
+<!--     <textarea rows="7" placeholder="Message" id="message"></textarea> -->
+  <input type = "submit" value = "Submit" />
+  </form>
+  <div class="lds-ripple"><div></div><div></div></div>
+</div>
+
+<!-- Funky animations section -->
+<div class="funky-animations">
+  <!-- <h2 class="new-section">Little Planning can completely change your lives</h2> -->
+<!--   <h3>Don't try this at home kids</h3> -->
+  <div>
+    <!-- <h4>Click Me</h4> -->
+  </div>
+</div>
+
+<!-- Footer -->
+<footer>
+  Made with <span class="animated pulse">&#9829;</span> and <span class="animated swing">&#60;&#47;&#62;</span>
+<!--   <br /> Check out the tutorial on <a href="https://scotch.io/tutorials/level-up-your-websites-with-animatecss" target="_blank">Scotch.io</a> -->
+</footer>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+
+  
+
+    <script  src="script/index.js"></script>
+
+
+
+
+</body>
+
+</html>
