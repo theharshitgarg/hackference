@@ -8,7 +8,11 @@ Requirements : <br>
 	* nltk,sklearn,numpy,textblob <br>
 	* PHP <br>
 	* XAMPP <br>
-	
+
+## Installation
+
+1) Run `pip install -r requirements.txt`
+
 
 ### Steps to reproduce : 
 
